@@ -1,0 +1,51 @@
+
+- [x] Alabama
+- [ ] Alaska
+- [x] Arizona
+- [x] Arkansas
+- [x] California
+- [x] Colorado
+- [ ] Connecticut
+- [ ] Delaware
+- [x] Florida
+- [x] Georgia
+- [x] Hawaii
+- [ ] Idaho
+- [ ] Illinois
+- [ ] Indiana
+- [ ] Iowa
+- [ ] Kansas
+- [ ] Kentucky
+- [x] Louisiana
+- [ ] Maine
+- [x] Maryland
+- [ ] Massachusetts
+- [x] Michigan
+- [ ] Minnesota
+- [x] Mississippi
+- [ ] Missouri
+- [ ] Montana
+- [ ] Nebraska
+- [x] Nevada
+- [ ] New Hampshire
+- [x] New Jersey
+- [x] New Mexico
+- [x] New York
+- [x] North Carolina
+- [ ] North Dakota
+- [x] Ohio
+- [x] Oklahoma
+- [x] Oregon
+- [ ] Pennsylvania
+- [ ] Rhode Island
+- [x] South Carolina
+- [ ] South Dakota
+- [x] Tennessee
+- [x] Texas
+- [x] Utah
+- [ ] Vermont
+- [x] Virginia
+- [x] Washington
+- [x] West Virginia
+- [ ] Wisconsin
+- [ ] Wyoming
